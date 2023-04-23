@@ -1,0 +1,14 @@
+body {
+    background-image: url(../img/fundo-site.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: "vt323", monospace;
+    color: #f3f3f3;
+    font-size: 18px;
+
+}
+
+#cartao {
+background-color: #070b12;
+}
